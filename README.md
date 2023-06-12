@@ -3,13 +3,6 @@
 <!--
 **pavanvarma058/pavanvarma058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--START_SECTION:activity-->
-
-
-
-
-<!--END_SECTION:activity-->
-
 
 Here are some ideas to get you started:
 
