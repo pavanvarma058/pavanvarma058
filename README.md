@@ -1,5 +1,7 @@
 ### Hi Friends... 👋
 
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pavan_varma_728">
+
 <!--
 **pavanvarma058/pavanvarma058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
