@@ -29,9 +29,9 @@ I'm a Learning Frontend developer and want to build very cool projects and also 
 <br />
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pavanvarma058&theme=dracula)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanvarma058&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanvarma058&theme=gotham&icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pavanvarma058&theme=gotham)](https://git.io/streak-stats)
 <!--
 **pavanvarma058/pavanvarma058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
