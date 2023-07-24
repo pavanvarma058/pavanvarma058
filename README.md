@@ -4,7 +4,7 @@
 
 **Frontend Developer**
 
-I'm a Learning Frontend developer and want to build very cool projects and also wanna contribute to opensource projects.
+I'm Currently Learning Frontend development and want to build very cool projects and also wanna contribute to opensource projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,9 +26,7 @@ I'm a Learning Frontend developer and want to build very cool projects and also 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br/>
 <hr>
-<br/>
 
 ### 🔥 &nbsp; My Stats :
 
