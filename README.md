@@ -22,7 +22,7 @@ Hey, I'm Pavan. I'm Currently exploring the depths of the MERN Stack by building
 
 ### 🔥 &nbsp; My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanvarma058&theme=dark&hide&icons=true)
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanvarma058&theme=dark&hide&icons=true)
 ---
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pavanvarma058&theme=dark&hide)
 
