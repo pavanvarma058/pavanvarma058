@@ -1,46 +1,94 @@
-# About Me:
-Hey, I'm Pavan. I'm Currently exploring the depths of the MERN Stack by building full-stack web applications and mastering modern development workflows.<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanvarma058/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pavan_varma_728) 
+<h1 align="center">Hi, I'm Pavan 👋</h1>
 
-## 📘 Latest Tech Blogs:
-| Blog Title                                                                                                      | Date              |
-|-----------------------------------------------------------------------------------------------------------------|-------------------|
-| [**Mastering JavaScript Functions: Declarations, Expressions, and Arrow Functions**](https://medium.com/@pavanvarma058/mastering-javascript-functions-declarations-expressions-and-arrow-functions-02e89e58eeca) | March 24, 2025    |
-| [**JavaScript Made Easy: Understanding Basics, Control Flow, and Loops**](https://medium.com/@pavanvarma058/javascript-made-easy-understanding-basics-control-flow-and-loops-7b4408cad736) | February 15, 2025    |
-| [**Java Functions/Methods: A Beginner’s Guide to Writing Efficient Code**](https://medium.com/@pavanvarma058/java-functions-methods-a-beginners-guide-to-writing-efficient-code-16bff63780c7)                             | December 17, 2025    |
----
+<p align="center">
+  <b>MSc Software Engineering Student • MERN Developer • Tech Writer</b><br>
+  Building full-stack applications and learning in public.
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-<br/>
-<hr>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanvarma058&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pavanvarma058" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/pavan_varma_728" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
+## 🧠 About Me
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanvarma058&theme=dark&hide&icons=true)
+Hi — I’m **Pavan**, currently pursuing my **MSc in Software Engineering (Sandwich Mode) in the UK**.  
+
+I’m focused on becoming a strong **Full-Stack Software Engineer**, with a primary interest in the **MERN stack**, backend systems, and scalable web applications. I learn best by building real projects, experimenting with new tools, and documenting my progress through blogs and GitHub.
+
+Right now, I’m working toward:
+- 🎯 Securing a **UK placement / internship in software engineering**
+- 🛠️ Building production-ready MERN applications  
+- 📚 Strengthening **Data Structures & Algorithms**  
+- ✍️ Writing technical blogs and contributing to GitHub  
+
+---
+
+## 🔥 What I Do
+
+- 🌐 **Full-Stack Engineering** — MERN Stack (MongoDB, Express, React, Node.js)  
+- 🔁 **Backend Development** — REST APIs, JWT, Middleware, Zod  
+- 🎨 **Frontend Engineering** — React, Tailwind, Component-based UI  
+- ✍️ **Technical Writing** — JavaScript, Java, Web Development  
+
+---
+
+## 💻 Tech Stack (Jerome-Style)
+
+```ts
+Languages:      JavaScript/TypeScript, Java, Python, SQL, C#
+Frontend:       HTML, React, Next.js, Tailwind CSS, Bootstrap
+Backend:        Node.js, Express
+Database:       MongoDB, Firebase
+Cloud/Infra:    Google Cloud (beginner)
+DevOps/Tools:   Git, GitHub, GitHub Actions, Postman, Docker (learning)
+Testing:        Postman
+```
+---
+
+## 🚀 Projects
+
+- 🔹 **Interest Calculator (MERN)** — Full-stack app with debouncing & CORS handling  
+- 🔹 **REST API with Node & Express** — Authentication, Zod validation, JWT  
+- 🔹 **Android Big Number Game** — Java + Android Studio  
+
+---
+
+## 📘 Latest Tech Blogs
+
+| Blog Title | Date |
+|-----------|------|
+| [Mastering JavaScript Functions](https://medium.com/@pavanvarma058/mastering-javascript-functions-declarations-expressions-and-arrow-functions-02e89e58eeca) | March 24, 2025 |
+| [JavaScript Made Easy](https://medium.com/@pavanvarma058/javascript-made-easy-understanding-basics-control-flow-and-loops-7b4408cad736) | Feb 15, 2025 |
+| [Java Functions Guide](https://medium.com/@pavanvarma058/java-functions-methods-a-beginners-guide-to-writing-efficient-code-16bff63780c7) | Dec 17, 2025 |
+
+---
+
+## 🎯 Professional Goals
+
+- 💼 **Career Goal:** Become a strong Full-Stack Software Engineer  
+- 📚 **Continuous Learning:** Improve DSA, System Design, and Backend Skills  
+- 🌍 **Community:** Share knowledge through blogs and GitHub projects  
+
+---
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn → [linkedin.com/in/pavanvarma](https://www.linkedin.com/in/pavanvarma058/) 
+- 🐦 X → [x.com/pavanvarma_twt](https://x.com/pavanvarma_twt)
+
+--- 
+[🔥 My Stats](https://github-readme-stats.vercel.app/api?username=pavanvarma058&theme=dark&hide&icons=true)
 ---
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pavanvarma058&theme=dark&hide)
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=pavanvarma058&style=flat-square&color=blue)
-<!--
-**pavanvarma058/pavanvarma058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><em>“Code. Learn. Build. Repeat.”</em></p>
