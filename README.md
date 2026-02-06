@@ -39,14 +39,14 @@ Right now, I’m working toward:
 
 ---
 
-## 💻 Tech Stack (Jerome-Style)
+## 💻 Tech Stack
 
 ```ts
-Languages:      JavaScript/TypeScript, Java, Python, SQL, C#
+Languages:      JavaScript/TypeScript, Java, Python, C#
 Frontend:       HTML, React, Next.js, Tailwind CSS, Bootstrap
 Backend:        Node.js, Express
 Database:       MongoDB, Firebase
-Cloud/Infra:    Google Cloud (beginner)
+Cloud/Infra:    AWS
 DevOps/Tools:   Git, GitHub, GitHub Actions, Postman, Docker (learning)
 Testing:        Postman
 ```
