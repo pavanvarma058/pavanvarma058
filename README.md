@@ -33,7 +33,7 @@ Right now, I’m working toward:
 ## 🔥 What I Do
 
 - 🌐 **Full-Stack Engineering** — MERN Stack (MongoDB, Express, React, Node.js)  
-- 🔁 **Backend Development** — REST APIs, JWT, Middleware, Zod  
+- 🔁 **Backend Development** — REST APIs, JWT, Middleware, Zod, NodeJS, Express, .NET  
 - 🎨 **Frontend Engineering** — React, Tailwind, Component-based UI  
 - ✍️ **Technical Writing** — JavaScript, Java, Web Development  
 
@@ -83,12 +83,16 @@ Testing:        Postman
 - 🐦 X → [x.com/pavanvarma_twt](https://x.com/pavanvarma_twt)
 
 --- 
-[🔥 My Stats](https://github-readme-stats.vercel.app/api?username=pavanvarma058&theme=dark&hide&icons=true)
+## My Stats 🚀
+
+![pavanvarma058's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanvarma058&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 ---
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pavanvarma058&theme=dark&hide)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pavanvarma058&theme=gotham)](https://git.io/streak-stats)
+---
 
 ---
+<!---![pavanvarma058's Stats](https://github-readme-stats.vercel.app/api?username=pavanvarma058&theme=gotham&show_icons=true&hide_border=true&count_private=true) --->
 
-![](https://komarev.com/ghpvc/?username=pavanvarma058&style=flat-square&color=blue)
+
 
 <p align="center"><em>“Code. Learn. Build. Repeat.”</em></p>
