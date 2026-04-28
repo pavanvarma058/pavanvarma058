@@ -85,7 +85,7 @@ Testing:        Postman
 --- 
 ## My Stats 🚀
 
-![pavanvarma058's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanvarma058&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![pavanvarma058's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanvarma058&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pavanvarma058&theme=gotham)](https://git.io/streak-stats)
 ---
