@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pavan 👋</h1>
 
 <p align="center">
-  <b>MSc Software Engineering Student/b><br>
+  <b>MSc Software Engineering Student</b><br>
   Building full-stack applications and learning in public.
 </p>
 
