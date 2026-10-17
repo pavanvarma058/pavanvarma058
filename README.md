@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Pavan 👋</h1>
+<h1 align="center">Hi, I'm Yeswanth 👋</h1>
 
 <p align="center">
-  <b>MSc Software Engineering Student</b><br>
+  <b>Junior Developer | MSc Software Engineering</b><br>
   Building full-stack applications and learning in public.
 </p>
 
@@ -18,16 +18,16 @@
 
 ## 🧠 About Me
 
-Hi — I’m **Pavan**, currently pursuing my **MSc in Software Engineering (Sandwich Mode) in the UK**.  
+Hi — I’m **Yeswanth**, currently doing my placement year at Alph4 Ltd as Junior Developer also **MSc in Software Engineering Graduate from NTU, UK**.  
 
-I’m focused on becoming a strong **Full-Stack Software Engineer**, with a primary interest in the **MERN stack**, backend systems, and scalable web applications. I learn best by building real projects, experimenting with new tools, and documenting my progress through blogs and GitHub.
+I’m focused on becoming a strong **Full-Stack Software Engineer**, with a primary interest in both frontend, backend systems, and scalable web applications. I learn best by building real projects, experimenting with new tools, and documenting my progress through blogs and GitHub.
 
-Right now, I’m working toward:
-- 🎯 Securing a **UK placement / internship in software engineering**
-- 🛠️ Building production-ready MERN applications  
-- 📚 Strengthening **Data Structures & Algorithms**  
-- ✍️ Writing technical blogs and contributing to GitHub  
-
+### 🚀 Right Now:
+- 🎯 Working as a **Junior Developer (Placement) at Alph4 Ltd**
+- 👨‍💻 Learning from and being mentored by experienced senior developers
+- 🛠️ Building and contributing to **production-ready applications**
+- 📚 Strengthening my **Data Structures & Algorithms (DSA)** skills
+- ✍️ Writing technical blogs and contributing to **GitHub**
 ---
 
 ## 🔥 What I Do
