@@ -30,34 +30,34 @@ I’m focused on becoming a strong **Full-Stack Software Engineer**, with a prim
 - ✍️ Writing technical blogs and contributing to **GitHub**
 ---
 
-## 🔥 What I Do
+## 🔥 💻 Tech Stack
 
-- 🌐 **Full-Stack Engineering** — MERN Stack (MongoDB, Express, React, Node.js)  
-- 🔁 **Backend Development** — REST APIs, JWT, Middleware, Zod, NodeJS, Express, .NET  
-- 🎨 **Frontend Engineering** — React, Tailwind, Component-based UI  
-- ✍️ **Technical Writing** — JavaScript, Java, Web Development  
+- 🌐 **Full-Stack Development** — PHP, Laravel, Vue.js, React, Node.js, Express.js
+- ⚙️ **Backend Engineering** — REST APIs, MVC Architecture, Authentication, JWT, Middleware, Eloquent ORM, .NET
+- 🎨 **Frontend Development** — Vue.js, React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- 🗄️ **Database Management** — MySQL, PostgreSQL, SQL Server, SQLite, MongoDB, Firebase
+- 🐳 **DevOps & Cloud Technologies** — Docker, Azure, Git, GitHub, CI/CD (Learning)
+- 💻 **Programming Languages** — PHP, JavaScript, TypeScript, C#, Java, Python, SQL
+- ✍️ **Technical Writing** — Software Engineering, Backend Development, Web Development
 
----
-
-## 💻 Tech Stack
-
-```ts
-Languages:      JavaScript/TypeScript, Java, Python, C#
-Frontend:       HTML, React, Next.js, Tailwind CSS, Bootstrap
-Backend:        Node.js, Express
-Database:       MongoDB, Firebase
-Cloud/Infra:    AWS
-DevOps/Tools:   Git, GitHub, GitHub Actions, Postman, Docker (learning)
-Testing:        Postman
-```
 ---
 
 ## 🚀 Projects
+🔹 Clifton Swimming Club Management System — C# .NET WinForms application using N-Tier Architecture, SQL Server, role-based authentication, CRUD operations, and unit testing.
 
-- 🔹 **Interest Calculator (MERN)** — Full-stack app with debouncing & CORS handling  
-- 🔹 **REST API with Node & Express** — Authentication, Zod validation, JWT  
-- 🔹 **Android Big Number Game** — Java + Android Studio  
+🔹 NTU Smart Campus (Android) — Android application built with Java, XML, and Firebase, featuring authentication, campus navigation, food ordering, and student services.
 
+🔹 Code Extraction from Videos (OCR) — Python-based research project using OpenCV, Tesseract OCR, EasyOCR, and Streamlit to extract editable source code from programming tutorial videos.
+
+🔹 Movie Watchlist REST API — Backend application built with Node.js, Express.js, Prisma ORM, and PostgreSQL, implementing RESTful CRUD operations.
+
+🔹 Course Selling Backend API — Node.js and Express.js application featuring JWT authentication, middleware, and protected API routes.
+
+🔹 Interest Calculator (MERN) — Full-stack application using MongoDB, Express.js, React, and Node.js with debouncing and CORS handling.
+
+🔹 Console Cricket Game — C# console application featuring Quick Match, Career Mode, game logic, and JSON-based data persistence.
+
+🔹 Android Big Number Game — Java-based Android application developed using Android Studio.
 ---
 
 ## 📘 Latest Tech Blogs
