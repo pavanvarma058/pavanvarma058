@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/pavanvarma058" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/pavan_varma_728" target="_blank">
+  <a href="https://x.com/pavanvarma_twt" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
 </p>
