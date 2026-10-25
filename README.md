@@ -57,7 +57,6 @@ I’m focused on becoming a strong **Full-Stack Software Engineer**, with a prim
 
 🔹 Console Cricket Game — C# console application featuring Quick Match, Career Mode, game logic, and JSON-based data persistence.
 
-🔹 Android Big Number Game — Java-based Android application developed using Android Studio.
 ---
 
 ## 📘 Latest Tech Blogs
