@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yeswanth 👋</h1>
 
 <p align="center">
-  <b>Junior Developer | MSc Software Engineering</b><br>
+  <b>Junior Developer (Alph4 Ltd) | MSc Software Engineering</b><br>
   Building full-stack applications and learning in public.
 </p>
 
